@@ -1,0 +1,26 @@
+# FastAPI framework for building API endpoints
+fastapi
+
+# ASGI server required to run FastAPI applications
+uvicorn
+
+# Gradio for building the web-based UI interface
+gradio
+
+# Pydantic for data validation and typed models (CampaignParameters, CampaignOutput)
+pydantic
+
+# DuckDuckGo Search API wrapper used by EnhancedSearchTool
+duckduckgo-search
+
+# PraisonAI core library for agent orchestration
+praisonai
+
+# Additional PraisonAI tools used in the agent system
+praisonai-tools
+
+# dotenv for loading environment variables from .env files
+python-dotenv
+
+# asyncio is part of Python's standard library; included here for clarity
+asyncio
